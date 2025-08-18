@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Shaheed Hayatuddin  
 
-<!--
-**shaheedcloud/shaheedcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔒 **Security System Administrator | Cloud Security | AWS Practitioner**  
+🌍 Cary, NC | 📧 hayatuddinshaheed@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- AWS Cloud Practitioner + CompTIA Security+ Certified  
+- Hands-on with **IAM, VPC, GuardDuty, CloudTrail, Config, Security Hub**  
+- Homelab builder (pfSense, Kali, Ubuntu, Windows Server, Wazuh SIEM)  
+- Strong focus on **Cloud Security, Identity & Access Management (IAM), and Threat Detection**  
+
+---
+
+## 🛡️ Featured Projects  
+- **AWS Secure Foundation – VPC + IAM + Audit** (in progress)  
+- **Wazuh SIEM End-to-End (pfSense + AWS)**  
+- **IAM Governance Mini-Org with SCPs**  
+- **Incident Response Drill-in-a-Box**  
+
+---
+
+## 🧰 Tools & Tech  
+**Cloud:** AWS (IAM, VPC, EC2, S3, RDS)  
+**Security:** GuardDuty, Security Hub, Splunk, Nessus, Wazuh, Config  
+**Infra-as-Code:** Terraform, GitHub Actions  
+**Networking:** pfSense, DNS, Firewall, VPN  
+**Languages:** Python (security automation), Bash  
+
+---
+
+## 📫 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/shaheed-hayatuddin-212b07246)  
+- 📧 hayatuddinshaheed@gmail.com  
