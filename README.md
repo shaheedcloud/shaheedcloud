@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shaheed Hayatuddin  
 
-🔒 **Security System Administrator | Cloud Security | AWS Practitioner**  
+🔒 **Information & Cloud Security | AWS Enthusiast**  
 🌍 Cary, NC | 📧 hayatuddinshaheed@gmail.com  
 
 ---
